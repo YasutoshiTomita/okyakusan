@@ -1,4 +1,4 @@
-class StaffFormPrensenter < UserFormPresenter
+class StaffMemberFormPresenter < UserFormPresenter
   def suspended_check_box
     markup(:div, class: "check-boxes") do |m|
       m << check_box(:suspended)

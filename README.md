@@ -1,24 +1,14 @@
-# README
+# 顧客管理アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##説明
 
-Things you may want to cover:
+https://github.com/kuroda/baukis2
+を参考に作った顧客管理サンプルアプリケーションです。
 
-* Ruby version
+##システム環境
 
-* System dependencies
+*Ubuntu 18.04
+*Ruby 2.7.0
+*PstgreSQL 11.2
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
